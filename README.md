@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá pessoal! 👋
+-----
+Eu sou apenas um rapaz latino-americano  
+Sem dinheiro no banco sem parentes importantes  
+E vindo do interior
 
-<!--
-**kleberforte/kleberforte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+...e apaixonado por tecnologia
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+<p align="center">
+  <a href="https://github.com/kleberforte">
+    <img src="https://img.shields.io/badge/github-kff-211F1F?logo=github&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://nlti.com.br">
+    <img src="https://img.shields.io/badge/website-nlti.com.br-1BC?logo=react&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/kleber-forte">
+    <img src="https://img.shields.io/badge/linkedin-Kleber_Forte-0072B1?logo=linkedin&style=flat-square" />
+  </a>
+</p>
