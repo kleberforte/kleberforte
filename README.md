@@ -8,9 +8,6 @@ E vindo do interior
 
 -----
 <p align="center">
-  <a href="https://github.com/kleberforte">
-    <img src="https://img.shields.io/badge/github-kff-211F1F?logo=github&logoColor=white&style=flat-square" />
-  </a>
   <a href="https://nlti.com.br">
     <img src="https://img.shields.io/badge/website-nlti.com.br-1BC?logo=react&logoColor=white&style=flat-square" />
   </a>
