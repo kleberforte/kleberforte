@@ -30,6 +30,7 @@ E vindo do interior
   <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/pfSense-1e3f75?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-1a1a1a?style=for-the-badge&logo=ansible&logoColor=white" />
