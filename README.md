@@ -26,16 +26,16 @@ E vindo do interior
 
 ### ⤵️ Skills
 
-<div style="display: inline_block">
-  <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/pfSense-1e3f75?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="Ansible" src="https://img.shields.io/badge/Ansible-1a1a1a?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<div>
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/pfSense-1e3f75?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-1a1a1a?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
