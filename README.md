@@ -20,9 +20,6 @@ E vindo do interior
   <a href="https://t.me/kleberforte" alt="Telegram">
     <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&labelColor=2ca5e0&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/Kleber Forte#4403" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white" />
-  </a>
 </div>
 
 ---
